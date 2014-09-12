@@ -1,0 +1,133 @@
+﻿/*=============================================================
+    Authour URI: www.binarytheme.com
+    License: Commons Attribution 3.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+    100% To use For Personal And Commercial Use.
+    IN EXCHANGE JUST GIVE US CREDITS AND TELL YOUR FRIENDS ABOUT US
+   
+    ========================================================  */
+
+/* =============================================================
+   GENERAL STYLES
+ ============================================================ */
+body {
+    font-family: 'Open Sans', sans-serif;
+   
+}
+
+#wrapper{
+	width:100%;
+}
+
+.container-margin{
+	margin-top:30px;
+}
+
+.pad-top {
+    padding-top:60px;
+}
+.text-center {
+    text-align:center;
+}
+i.fa {
+    padding:5px;
+}
+section {
+    padding-top:50px;
+}
+
+p {
+    font-weight:300;
+    line-height:30px;
+}
+.pad-row {
+padding-top: 7%;
+padding-bottom: 3%;
+}
+.pad-bottom {
+    padding-bottom:50px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+color: #FFF;
+}
+
+.navbar-inverse .navbar-brand {
+color: #FFF;
+}
+
+
+.navbar {
+    padding:15px;
+     -webkit-transition: background .8s ease-out,padding .8s ease-out;
+        -moz-transition: background .8s ease-out,padding .8s ease-out;
+        transition: background .8s ease-out,padding .8s ease-out;
+}
+
+
+.navbar-pad-original {
+      padding:0px;
+}
+
+.margin-top{
+	margin-top:50px;
+}
+
+.padd-zero{
+	padding:0 !important;
+}
+
+
+.back-light {
+    background-color:rgba(0, 0, 0, 0.50);
+    padding:10px;
+}
+
+.note-sec {
+     padding-bottom:50px;
+	 background:url(../img/texture-bg.jpg) no-repeat;
+background-attachment: fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+width: 100%;
+display: block;
+height: auto;
+   min-height:300px;
+    color:#fff;
+}
+
+
+.head-main-img {
+     padding-bottom:50px;
+    background: url(../img/4.jpg) no-repeat 50% 50%;
+background-attachment: fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+width: 100%;
+display: block;
+height: auto;
+   min-height:300px;
+    color:#fff;
+}
+    .head-main-img h1 {
+        padding: 50px 2px 2px 10px;
+        text-transform:uppercase;
+    }
+
+.footer-sec {
+    background-color:#222;
+    color:#808080;
+	padding-top: 35px;
+}
+    #footer-sec h4 {
+        text-transform:uppercase;
+        color:#fff;
+    }
+
+   

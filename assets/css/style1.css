@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+.nav-bg{
+	background:#fff !important;
+	color:red !important;
+}
+.nav-bg a{
+	color:#000 !important;
+}
+.img-rounded{
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	-o-border-radius:10px;
+	-ms-border-radius:10px;
+}
+.btn-color{
+	background:#093 !important;
+	border:1px solid #063 !important;
+	transition:all .5s linear;
+	-moz-transition:all .5s linear;
+	-webkit-transition:all .5s linear;
+	-o-transition:all .5s linear;
+	-ms-transition:all .5s linear;
+}
+
+.btn-color:hover{
+	background:white !important;
+	color:#093 !important
+}
+
+.fa-color{
+	color:#093 !important;
+}
+
+.p-color{
+	color:#000 !important;
+}
+
+.tex-bg{
+	background:url(../img/texture-bg1.jpg) no-repeat !important;
+}

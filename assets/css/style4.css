@@ -1,0 +1,72 @@
+
+
+@charset "utf-8";
+/* CSS Document */
+
+.nav-bg{
+	background:#0C6 !important;
+	color:red !important;
+}
+.nav-bg a{
+	color:#fff !important;
+}
+.img-rounded{
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	-o-border-radius:10px;
+	-ms-border-radius:10px;
+	border:2px solid #0c6;
+}
+.btn-color{
+	background:#0c6 !important;
+	border:1px solid #0C3 !important;
+	transition:all .5s linear;
+	-moz-transition:all .5s linear;
+	-webkit-transition:all .5s linear;
+	-o-transition:all .5s linear;
+	-ms-transition:all .5s linear;
+}
+
+.btn-color:hover{
+	background:white !important;
+	color:#0c6 !important
+}
+
+.fa-color{
+	color:#0c6 !important;
+}
+
+.p-color{
+	color:#000 !important;
+}
+
+.tex-bg{
+	background:url(../img/texture-bg1.jpg) no-repeat !important;
+}
+
+.foot-bg{
+	background:#0c6 !important;
+}
+
+.foot-bg h4{
+	color:#fff !important;
+}
+
+.foot-bg p{
+	color:#fff !important;
+}
+
+.foot-bg a{
+	color:#fff !important;
+}
+
+.foot-bg a:hover{
+	color:#CCC !important;
+	text-decoration:none !important;
+}
+
+.foot-btn{
+	background:none !important;
+	border:1px solid #CFCFCF !important;
+}
